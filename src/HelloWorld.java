@@ -22,10 +22,15 @@ System.out.println("Welcome to My World");
 =======
 System.out.println("how are you");
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f4b594fff7a1c678298b07f6d68f3b05474c403d
 =======
 System.out.println("what u want");		
 >>>>>>> 123c097483c3b33f992cceb6b3c6de5cde6afe7a
+=======
+System.out.println("what u want");	
+System.out.println("i can achieve my dreams");		
+>>>>>>> 61e05b822b3a3f6603d623ce45fd9088ed87ce61
 	}
 
 }
