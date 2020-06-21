@@ -21,7 +21,11 @@ System.out.println("Welcome to My World");
 
 =======
 System.out.println("how are you");
+<<<<<<< HEAD
 >>>>>>> f4b594fff7a1c678298b07f6d68f3b05474c403d
+=======
+System.out.println("what u want");		
+>>>>>>> 123c097483c3b33f992cceb6b3c6de5cde6afe7a
 	}
 
 }
