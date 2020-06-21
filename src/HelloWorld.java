@@ -40,7 +40,11 @@ System.out.println("i will buy Avenger Bike");
 System.out.println("yes");		
 System.out.println("u can do want you want");		
 System.out.println("win");		
+<<<<<<< HEAD
 >>>>>>> 5083a24d0dda50b8f128a725b79f9e3c29df2de4
+=======
+System.out.println("problem solved");		
+>>>>>>> 7fbc2cbeb14863c3a64600956ffcce508ca72b91
 	}
 
 }
