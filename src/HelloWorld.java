@@ -30,7 +30,11 @@ System.out.println("what u want");
 =======
 System.out.println("what u want");	
 System.out.println("i can achieve my dreams");		
+<<<<<<< HEAD
 >>>>>>> 61e05b822b3a3f6603d623ce45fd9088ed87ce61
+=======
+System.out.println("i will buy Avenger Bike");		
+>>>>>>> 7499d39ea2a4290e0ccd714769c7a27b9821679a
 	}
 
 }
