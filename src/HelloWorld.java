@@ -34,7 +34,13 @@ System.out.println("i can achieve my dreams");
 >>>>>>> 61e05b822b3a3f6603d623ce45fd9088ed87ce61
 =======
 System.out.println("i will buy Avenger Bike");		
+<<<<<<< HEAD
 >>>>>>> 7499d39ea2a4290e0ccd714769c7a27b9821679a
+=======
+System.out.println("yes");		
+System.out.println("u can do want you want");		
+System.out.println("win");		
+>>>>>>> 5083a24d0dda50b8f128a725b79f9e3c29df2de4
 	}
 
 }
