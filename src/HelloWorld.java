@@ -18,6 +18,7 @@ System.out.println("what u want");
 System.out.println("i can achieve my dreams");		
 System.out.println("i will buy Avenger Bike");		
 System.out.println("yes");		
+System.out.println("u can do want you want");		
 	}
 
 }
