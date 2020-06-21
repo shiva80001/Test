@@ -20,6 +20,7 @@ System.out.println("i will buy Avenger Bike");
 System.out.println("yes");		
 System.out.println("u can do want you want");		
 System.out.println("win");		
+System.out.println("problem solved");		
 	}
 
 }
