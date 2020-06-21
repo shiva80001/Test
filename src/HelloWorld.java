@@ -44,7 +44,11 @@ System.out.println("win");
 >>>>>>> 5083a24d0dda50b8f128a725b79f9e3c29df2de4
 =======
 System.out.println("problem solved");		
+<<<<<<< HEAD
 >>>>>>> 7fbc2cbeb14863c3a64600956ffcce508ca72b91
+=======
+System.out.println("no commit");		
+>>>>>>> d3942798f8b24cc10dc2cd6bd3df68099a4d5b4c
 	}
 
 }
