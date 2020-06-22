@@ -23,6 +23,9 @@ System.out.println("u can do want you want");
 System.out.println("win");		
 System.out.println("problem solved");		
 System.out.println("no commit");		
+System.out.println("some changes");	
+System.out.println("changes);
+System.out.println("almost there");		   
 	}
 
 }
