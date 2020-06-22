@@ -26,7 +26,8 @@ System.out.println("no commit");
 System.out.println("some changes");	
 System.out.println("changes);
 System.out.println("almost there");		   
-System.out.println("Task is Done");		   
+System.out.println("Task is Done");	
+System.out.println("batch file test");		   
 	}
 
 }
